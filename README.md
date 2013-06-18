@@ -1,4 +1,4 @@
 Revelation
 ==========
 
-My Midsummer Jam Week submission.
+My [Midsummer Jam Week](http://msj.blechi.at/) submission.
